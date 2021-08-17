@@ -4,15 +4,9 @@
 
 ## [DiePos](DiePos)
 
-私发玩家死亡坐标 (需要 [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI) and [MoreAPIs](MoreAPIs))
+私发玩家死亡坐标 (需要 [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI) and [MoreAPIs](https://github.com/HuajiMUR233/MoreAPIs))
 
 感谢 [@57767598](https://github.com/577fkj/) 开发的[`DiePos`](https://github.com/577fkj/MCDR-plugins/blob/main/diepos.py)插件和 [@Fallen_Breath](https://github.com/Fallen-Breath) 开发的[`Here`](https://github.com/TISUnion/Here)插件,  本插件对其进行了`MCDR 1.x`的适配,  使其可在`MCDR 1.x`下使用
-
-## [MoreAPIs](MoreAPIs)
-
-更多的API
-
-感谢 [@Huaji_MUR233](https://github.com/HuajiMUR233) 开发的[`MoreAPIs`](https://github.com/HuajiMUR233/MoreAPIs)插件, 本插件对其进行了bug修复
 
 ## [MCDR_Bot](MCDR_Bot)
 
